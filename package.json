@@ -1,0 +1,27 @@
+{
+  "name": "SerialPortExamples",
+  "version": "1.0.0",
+  "description": "This example, shows how to communicate node y processing through serialport",
+  "main": "SerialPortExample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NodeBotsMx/SerialPortExamples.git"
+  },
+  "keywords": [
+    "node",
+    "serialport",
+    "arduino"
+  ],
+  "author": "Julio Cesar Rodriguez <jurasec@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NodeBotsMx/SerialPortExamples/issues"
+  },
+  "homepage": "https://github.com/NodeBotsMx/SerialPortExamples",
+  "dependencies": {
+    "serialport": "^1.4.9"
+  }
+}
