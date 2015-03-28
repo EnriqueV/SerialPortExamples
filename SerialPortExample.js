@@ -25,5 +25,3 @@ serialport.on('open', function(){
   
   setTimeout( function(){ sendCommnad(); }, 2000);
 });
-
-http://192.168.2.250:9090/docs/PDFDocument.jsp?RowIdPoliza=1-2J7BUF&IdMovimiento=1-2J7BUQ&TipoDeDocumento=Recibo&Folio=RA783954&PAPEL=Bond&Formato=OriginalBond
